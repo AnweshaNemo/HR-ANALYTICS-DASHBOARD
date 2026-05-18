@@ -16,4 +16,4 @@ Interactive HR Analytics Dashboard built using Power BI to analyze employee attr
 - KPI Cards and Filters
 
 ## Power BI File
-[Download PBIX File](https://drive.google.com/file/d/1ejxBWu3EmaWWxUfpisXDlymc5p4W_2dS/view?usp=sharing)
+[Download PBIX File](https://drive.google.com/file/d/1y8gpHWDjjxIKRAMZL5hbNQVtVYhUNDam/view?usp=sharing)
